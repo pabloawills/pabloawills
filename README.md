@@ -3,7 +3,7 @@
 I am a Data Analyst driven by the simple idea that better decisions come from clearer insights.  
 My work blends **machine learning**, **predictive modeling**, and **analytical storytelling** to uncover patterns, challenge assumptions, and solve real operational challenges.
 
-I’m not here to just build models —  
+I’m not here to just build models
 I’m here to build understanding.
 
 ---
