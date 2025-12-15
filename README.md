@@ -71,4 +71,4 @@ To stay ahead in a field that never stands still, I’m deepening my knowledge i
 ## 🤝 Let’s Connect  
 If you’re interested in analytics, machine learning, decision science, or simply enjoy talking through big ideas, I’m always open to a conversation.
 
-📫 **LinkedIn:** https://www.linkedin.com/in/pablo-wills-175822227/ **
+📫 **LinkedIn:** https://www.linkedin.com/in/pablo-wills-175822227/
